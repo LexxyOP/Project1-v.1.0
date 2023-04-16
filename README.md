@@ -31,4 +31,4 @@ Level Admin :
 - Guru ( Melakukan Penilaian )
 
 BUG Laporkan ke :
-rifanmuttaqin@gmail.com
+muhammadikhsanmaulana1901@gmail.com
